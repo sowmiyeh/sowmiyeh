@@ -19,5 +19,3 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?logo=Hashnode&logoColor=white)](https://sowmiyeh.hashnode.dev/)  
   
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=^&color=blue&style=flat&logo" alt="back to top" /></a></p>
-  
-  
