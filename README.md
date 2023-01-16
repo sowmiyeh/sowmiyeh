@@ -16,7 +16,7 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmiyeh) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sowmiyeh) 
-[![Hashnode](https://img.shields.io/badge/Hashnode-%2762FF.svg?logo=Hashnode&logoColor=white)](https://sowmiyeh.hashnode.dev/)  
+[![Hashnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?logo=Hashnode&logoColor=white)](https://sowmiyeh.hashnode.dev/)  
   
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=^&color=blue&style=flat&logo" alt="back to top" /></a></p>
   
