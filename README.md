@@ -3,10 +3,16 @@
 
 ---
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sowmiyeh&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sowmiyeh&theme=tokyonight" />
-</p>
+### 👨🏻‍💻  About Me
+
+💼 Currently working as a Mainframe Developer
+🎓 Bachelor’s of Computer Application, SASTRA DEEMED UNIVERSITY
+🌱  I'm on track for learning more about OpenSource and DevOps
+👩‍🏫 Certified Gold-Tier #IamRemarkable Facilitator
+🧑‍🤝‍🧑 Mentored over 200+ newbies in UI/UX Design
+🎙 Spoken at over 35+ events on the topics like Community building, Leveraging Linkedin and UI/UX Design
+✍️  In my free time, I pursue Vector Designing and Blog Writing as hobbies!
+💬  Feel free to reach out to me for Speaking opportunities on "Google Crowdsource, Break the Bias, how to leverage LinkedIn to build a personal brand, how to successfully navigate through your undergraduate degree" in your college/university
 
 ---
 
@@ -29,9 +35,18 @@
 - IEEE Delhi Section - DESIGN~WAVE Hackathon Winner in 2022  - [`Winner Announcement`](https://design-wave.devpost.com/updates) [`Devpost Project Submission`](https://devpost.com/software/the-classygirl-podcast-app?ref_content=my-projects-tab&ref_feature=my_projects)           
 - GirlScript 21 Under 21 Award Winner in 2021- [`Winner Announcement`](https://www.linkedin.com/feed/update/urn:li:activity:6881459004124606464/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6881459004124606464%29)   
   
---- 
+---
+
+⚙️  GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sowmiyeh&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sowmiyeh&theme=tokyonight" />
+</p>
+
+---
   
-## 🌐 Socials
+## 🌐 Connect With me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmiyeh) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sowmiyeh) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?logo=Hashnode&logoColor=white)](https://sowmiyeh.hashnode.dev/)  
