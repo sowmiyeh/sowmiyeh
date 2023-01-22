@@ -4,10 +4,9 @@
 ---
 
 <p align="center">
-<a href="https://github.com/sowmiyeh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sowmiyeh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyeh&theme=algolia"/>
-</a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sowmiyeh&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sowmiyeh&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyeh&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
