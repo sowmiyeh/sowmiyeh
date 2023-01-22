@@ -6,7 +6,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sowmiyeh&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sowmiyeh&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyeh&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
