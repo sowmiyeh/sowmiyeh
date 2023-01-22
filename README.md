@@ -5,14 +5,14 @@
 
 ### 👨🏻‍💻  About Me
 
-- 💼 Currently working as a Mainframe Developer
-- 🎓 Bachelor’s of Computer Application, SASTRA DEEMED UNIVERSITY
-- 🌱  I'm on track for learning more about OpenSource and DevOps
-- 👩‍🏫 Certified Gold-Tier #IamRemarkable Facilitator
-- 🧑‍🤝‍🧑 Mentored over 200+ newbies in UI/UX Design
-- 🎙 Spoken at over 35+ events on the topics like Community building, Leveraging Linkedin and UI/UX Design
-- ✍️  In my free time, I pursue Vector Designing and Blog Writing as hobbies!
-- 💬  Feel free to reach out to me for Speaking opportunities on "Google Crowdsource, Break the Bias, how to leverage LinkedIn to build a personal brand, how to successfully navigate through your undergraduate degree" in your college/university
+💼 Currently working as a **Mainframe Developer** <br>
+🎓 **Bachelor’s of Computer Application** Graduate <br>
+🌱  I'm on track for learning more about OpenSource and DevOps <br>
+👩‍🏫 Certified **Gold-Tier #IamRemarkable Facilitator** <br>
+🧑‍🤝‍🧑 Mentored over **200+ newbies in UI/UX Design** <br>
+🎙 Spoken at over 35+ events on the topics like **Community building, Leveraging Linkedin and UI/UX Design** <br>
+✍️  In my free time, I pursue **Vector Designing and Blog Writing** as hobbies! <br>
+💬  Feel free to reach out to me for Speaking opportunities on **Google Crowdsource, Break the Bias, how to leverage LinkedIn to build a personal brand, how to successfully navigate through your undergraduate degree** in your college/university
 
 ---
 
