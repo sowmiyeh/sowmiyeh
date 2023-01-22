@@ -47,11 +47,11 @@
 ---
   
 ## 🌐 Connect with me on : 
-<p align="centre">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmiyeh) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sowmiyeh) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?logo=Hashnode&logoColor=white)](https://sowmiyeh.hashnode.dev/)  
-</p>
+
 ---  
   
 ![Profile views](https://gpvc.arturio.dev/sowmiyeh)  
