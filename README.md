@@ -7,9 +7,10 @@
 ### ✍ My Latest Blog Posts 
 
 <p align="left">
-<a href="https://sowmiyeh.hashnode.dev/getting-to-know-git-and-github-understanding-what-they-are-and-why-we-use-them" title="Getting to Know Git and GitHub: Understanding What They Are and Why We Use Them"><img src="https://sowmiyeh.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fstock%2Funsplash%2FwX2L8L-fGeA%2Fupload%2F87aebf5c6abb28b7524ec0a904708ad4.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Getting to Know Git and GitHub: Understanding What They Are and Why We Use Them" width="250px" align="left" /></a>
-<a href="https://sowmiyeh.hashnode.dev/getting-to-know-git-and-github-understanding-what-they-are-and-why-we-use-them" title="Getting to Know Git and GitHub: Understanding What They Are and Why We Use Them"><strong>Getting to Know Git and GitHub: Understanding What They Are and Why We Use Them</strong></a>
-<br/> This blog post will provide an overview of what Git and GitHub are, their roles, and why we use them. We will look at the benefits of each platform and explain why they are so important for collaboration, version control, and open-source contributions.... </p> <br/> <br/>
+<a href="https://sowmiyeh.hashnode.dev/how-mainframes-are-still-relevant-in-todays-digital-world" title="How Mainframes are Still Relevant in Today's Digital World?"><img src="https://sowmiyeh.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671706637389%2FhGyhH56yd.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="How Mainframes are Still Relevant in Today's Digital World?" width="250px" align="left" /></a>
+<a href="https://sowmiyeh.hashnode.dev/how-mainframes-are-still-relevant-in-todays-digital-world" title="How Mainframes are Still Relevant in Today's Digital World?"><strong>How Mainframes are Still Relevant in Today's Digital World?</strong></a>
+<br/> A mainframe is a powerful and large computer system. It is typically used to handle high volumes of data processing, such as transaction processing, data warehousing, and analytics. Mainframes are known for their reliability, scalability, and security, which has earned them a reputation as the backbone of many businesses..... </p> <br/> <br/>
+
   
 ### 🏆 Achievements
 
