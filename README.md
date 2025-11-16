@@ -9,9 +9,8 @@
 🌐 Ex–**Ping Network x Google** – Project Coordinator (Google Gemini AI Student Ambassador Program)  
 🎓 **MBA in Business Analytics** + **BCA**  
 📊 5+ years across **program management, project delivery, operations, community leadership, and UI/UX**  
-🧑‍🤝‍🧑 Led and mentored **15+ cross-functional teams** and **130+ ambassadors**  
+🎨 Delivered end-to-end UI/UX work for multiple platforms — from research and wireframes to high-fidelity designs and handoff
 📈 Scaled large tech and community programs like **GSSoC’24 (67K+ registrations)**  
-👩‍🏫 Gold-tier **#IamRemarkable Facilitator**, training 250+ participants  
 🎙 Delivered talks at 35+ events on **community building, career growth, and design**  
 ✍️ Write about **design, career, and community**; previously a Top Writer in Design on Medium  
 💬 Open to speaking requests around **Google communities, personal branding, student leadership, UI/UX, and early-career guidance**
@@ -39,25 +38,11 @@ I write about program management, design, UI/UX, community building, and early-c
 </p>
 
 ---
-
-### ⚙️ GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sowmiyeh&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sowmiyeh&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmiyeh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmiyavenkatesan) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sowmiyeh) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?logo=Hashnode&logoColor=white)](https://sowmiyeh.hashnode.dev/)  
-
----
-
-![Profile views](https://gpvc.arturio.dev/sowmiyeh)
 
 <p align="right">
 <a href="#top">
