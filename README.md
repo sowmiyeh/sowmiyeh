@@ -9,7 +9,7 @@
 🌐 Ex–**Ping Network x Google** – Project Coordinator (Google Gemini AI Student Ambassador Program)  
 🎓 **MBA in Business Analytics** + **BCA**  
 📊 5+ years across **program management, project delivery, operations, community leadership, and UI/UX**  
-🎨 Delivered end-to-end UI/UX work for multiple platforms — from research and wireframes to high-fidelity designs and handoff
+🎨 Worked across **UI/UX, brand design, and visual content creation** for tech programs, community initiatives, and partner campaigns
 📈 Scaled large tech and community programs like **GSSoC’24 (67K+ registrations)**  
 🎙 Delivered talks at 35+ events on **community building, career growth, and design**  
 ✍️ Write about **design, career, and community**; previously a Top Writer in Design on Medium  
